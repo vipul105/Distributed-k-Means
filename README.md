@@ -1,0 +1,2 @@
+# Distributed-k-Means
+This is a python implementation of "Distributed k-Means and k-Median Clustering on General Topologies" by Maria Florina Balcan et al. (http://www.cs.cmu.edu/~ninamf/papers/distr_clust.pdf)   ||    • The  concept of coreset was used for efficient k-means clustering of data in distributed settings.   • With reduction in communication cost, the k-means cost obtained (using coresets) was as low as the one obtained by running Lloyd’s algorithm on the global dataset.
